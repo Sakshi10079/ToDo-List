@@ -3,9 +3,7 @@
 A simple and intuitive **To-Do List** built using **HTML, CSS, and JavaScript**. Organize your tasks and boost productivity! ✅🗂️  
 
 ## 🚀 Live Demo  
-🔗 [Manage Your Tasks](https://your-username.github.io/todo-list/)  
-
-*(Replace the link above with your actual GitHub Pages link.)*
+🔗 [Manage Your Tasks]  
 
 ## 📌 Features  
 - ➕ Add new tasks  
@@ -31,4 +29,4 @@ A simple and intuitive **To-Do List** built using **HTML, CSS, and JavaScript**.
 ## 🔧 Installation & Setup  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/todo-list.git
+   git clone https://github.com/Sakshi10079/ToDo-List.git
