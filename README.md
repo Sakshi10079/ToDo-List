@@ -20,9 +20,7 @@ A simple and intuitive **To-Do List** built using **HTML, CSS, and JavaScript**.
 - **JavaScript** – Task management logic  
 
 ## 📸 Demo Screenshot  
-![To-Do List Demo](https://github.com/user-attachments/assets/d5f1c9fb-730a-4203-a97f-cdeef22d9ddb)
-
-*(Replace with your actual screenshot link or upload a screenshot to your GitHub repository and get the link.)*
+![To-Do List Demo](https://github.com/user-attachments/assets/dda713a4-d7b4-4ae2-ba23-f045c268b343)
 
 ## 🎯 How to Use?  
 1. Type a new task into the input field  
